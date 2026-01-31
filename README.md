@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22363472)
 # Створення класів
 
 Це друга лабораторна робота в нашому курсі з ООП, в ході якої ви маєте отримати навички зі створення класів та тестування їх працездатності. Робота дуже маленька та складається з двох завдань.
@@ -38,4 +39,7 @@
   * зробити та зберегти (тека **Solution**) у файл ````advanced.png```` **скріншот** результатів роботи програми, та модифікувати файл ````README.md````відповідним чином
 
 
+
+<img width="480" height="820" alt="1`" src="https://github.com/user-attachments/assets/c32ef7e2-d915-44bb-bead-c2227594f3f4" />
+<img width="407" height="414" alt="done" src="https://github.com/user-attachments/assets/b2e6713c-b55e-48f8-b5b4-55cc482a0b89" />
 
